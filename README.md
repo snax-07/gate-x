@@ -1,5 +1,5 @@
-````md
-# Adaptive Request Reputation & Isolation Mesh (ARRIM)
+
+# GATE - X
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -138,5 +138,3 @@ To get started, please check out the `CONTRIBUTING.md` file.
 
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
 
-```
-```

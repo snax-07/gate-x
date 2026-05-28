@@ -1,4 +1,4 @@
-````md
+
 # Contributing to ARRIM
 
 First off, thank you for considering contributing to the Adaptive Request Reputation & Isolation Mesh!
@@ -52,16 +52,14 @@ Install the following tools:
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/adaptive-request-reputation-mesh.git
 cd adaptive-request-reputation-mesh
-````
 
 ### 2. Start Local Infrastructure
 
-```bash
+
 docker compose -f deployments/docker-compose.local.yml up -d
-```
 
 This starts:
 
@@ -166,5 +164,3 @@ We are committed to making participation in our community respectful, educationa
 
 Everyone starts somewhere.
 
-```
-```
